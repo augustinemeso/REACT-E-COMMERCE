@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "category": "Men's Clothing",
+      "title": "Fjallraven - Foldsack No. 1 Backpack",
+      "price": 109.95,
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "category": "Men's Clothing",
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+    },
+    {
+      "id": 3,
+      "category": "Men's Clothing",
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg"
+    },
+    {
+      "id": 4,
+      "category": "Men's Clothing",
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_UY879_.jpg"
+    },
+    {
+      "id": 5,
+      "category": "Jewelry",
+      "title": "John Hardy Women's Legends Naga Bracelet",
+      "price": 695,
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": 6,
+      "category": "Jewelry",
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": 7,
+      "category": "Jewelry",
+      "title": "White Gold Plated Princess Ring",
+      "price": 9.99,
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": 8,
+      "category": "Jewelry",
+      "title": "Pierced Owl Rose Gold Plated Earrings",
+      "price": 10.99,
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_UL640_QL65_.jpg"
+    },
+    {
+      "id": 9,
+      "category": "Electronics",
+      "title": "WD 2TB Elements Portable Hard Drive",
+      "price": 64,
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"
+    },
+    {
+      "id": 10,
+      "category": "Electronics",
+      "title": "SanDisk SSD PLUS 1TB Internal SSD",
+      "price": 109,
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+    },
+    {
+      "id": 11,
+      "category": "Electronics",
+      "title": "Silicon Power 256GB SSD 3D NAND",
+      "price": 109,
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+    },
+    {
+      "id": 12,
+      "category": "Electronics",
+      "title": "WD 4TB Gaming Drive (PS4)",
+      "price": 114,
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"
+    },
+    {
+      "id": 13,
+      "category": "Electronics",
+      "title": "Acer SB220Q 21.5\" Full HD Monitor",
+      "price": 599,
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"
+    },
+    {
+      "id": 14,
+      "category": "Electronics",
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor",
+      "price": 999.99,
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+    }
+    
+]
